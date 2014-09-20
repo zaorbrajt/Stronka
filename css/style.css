@@ -6,7 +6,7 @@ body {
     
     
 }
-a{
+.logo{
     text-decoration: none;
     font-size: 40px;
     color:#55B388;
@@ -21,7 +21,71 @@ header {
     height: 400px;
     color: white;
     
+   padding:50px 0px;
+}
+
+nav {
+    display: inline-block;
+    text-align: right;
+    width: 870px;
+    
    
 }
 
+nav ul {
+    padding:0;
+    
+}
 
+nav ul li {
+    display: inline-block;
+    padding: 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    
+}
+
+nav ul li a:hover {
+    color: #55B388;
+}
+
+.middle {
+    margin:0 auto;
+    width: 1000px;
+}
+
+.button {
+    text-decoration: none;
+    color: white;
+    background-color: #55B388;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+    display: block;
+    width: 105px;
+    text-align: center;
+}
+
+.left_block {
+    display: inline-block;
+    width: 400px;
+   
+    vertical-align: top;
+    margin-top: 90px;
+}
+
+.right_block {
+    display: inline-block;
+    width: 450px;
+    
+    text-align: right;
+    margin-top: 90px;
+}
+
+.header_text {
+    color:#c5d2es;
+    line-height: 23px;
+}
