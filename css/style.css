@@ -1,0 +1,27 @@
+body {
+    
+    font-family: Arial,Verdana,Tahoma,sans-serif;
+    margin: 0;
+    
+    
+    
+}
+a{
+    text-decoration: none;
+    font-size: 40px;
+    color:#55B388;
+    
+    
+}
+
+header {
+    
+    background-image: url("../images/header.jpg");
+    width: 100%;
+    height: 400px;
+    color: white;
+    
+   
+}
+
+
