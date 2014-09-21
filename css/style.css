@@ -81,11 +81,33 @@ nav ul li a:hover {
     display: inline-block;
     width: 450px;
     
-    text-align: right;
+    
     margin-top: 90px;
 }
 
 .header_text {
     color:#c5d2es;
     line-height: 23px;
+}
+
+.section_text {
+    color:#c5d2es;
+    line-height: 23px;
+    
+    
+}
+.alignTextRight {
+    text-align: right;
+}
+
+.central_block {
+    background-color: #55B388;
+    padding: 50px 0px;
+    height:450px;
+}
+
+.central_text {
+    
+    color: white;
+    text-align: center;
 }
